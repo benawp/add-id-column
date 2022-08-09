@@ -47,8 +47,8 @@ endif;
 // Internationalization
 if ( ! function_exists( 'benawp_load_text_domain' ) ) :
 	function benawp_load_text_domain() {
-		load_plugin_textdomain( 'benawp', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
+		load_plugin_textdomain( 'benawp-add-id-column', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
 	}
 
-	add_action( 'plugin_loaded', 'benawp_load_text_domain' );
+	add_action( 'init', 'benawp_load_text_domain' );
 endif;
