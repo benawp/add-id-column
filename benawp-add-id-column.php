@@ -7,7 +7,7 @@
  * Requires at least: 1.0
  * Requires PHP:      5.6
  * Author:            BenaWP
- * Author URI:        https://bena.wp/
+ * Author URI:        https://www.linkedin.com/in/yvon-aulien-benahita-733350164/
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Update URI:        #
