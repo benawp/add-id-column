@@ -5,6 +5,7 @@ Donate link: https://www.linkedin.com/in/yvon-aulien-benahita-733350164/
 Requires at least: 1.0
 Tested up to: 6.0.1
 Requires PHP: 5.6
+Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
