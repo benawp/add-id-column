@@ -35,7 +35,7 @@ endif;
 if ( ! function_exists( 'benawp_column_content' ) ) :
 	function benawp_column_content( $column, $id ) {
 		if ( $column === 'post_id_clmn' ) {
-			echo $id;
+			esc_html_e( $id );
 		}
 	}
 
