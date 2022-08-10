@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name:       Add ID Column
+ * Plugin Name:       Ajouter une colonne d'ID
  * Plugin URI:        https://github.com/BenaWP/Add-ID-Column.git
- * Description:       You may need a post or page ID in several instances.For example, building a custom shortcode requires a unique ID number as the parameter. When adding    widgets to a WordPress theme, you may also need to identify the post ID. This plugin makes it easy for you to get the ID of an article or a page you want.
+ * Description:       Gagner du temps ! Installer puis Activer cet plugin et vous récupérerez facilement l'ID d'un Article ou d'une page que vous voulez !
  * Version:           1.0.0
  * Requires at least: 1.0
  * Requires PHP:      5.6

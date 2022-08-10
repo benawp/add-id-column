@@ -9,13 +9,15 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin makes it easy for you to get the ID of an article or a page you want.
+Gagner du temps ! Installer puis Activer cet plugin et vous récupérerez facilement l'ID d'un Article ou d'une page que vous voulez !
 
 == Description ==
-You may need the ID of a post or page in several cases, for example to create a custom shortcode that requires an ID as a parameter. When you want to add widgets to a WordPress theme, you may also need the post ID.
+Vous pouvez avoir besoin de l'ID d'un article ou d'une page dans plusieurs cas, par exemple pour créer un shortcode personnalisé qui nécessite un ID comme paramètre. Ou lorsque vous ajoutez des widgets à un thème WordPress, vous pouvez également avoir besoin d'identifier l'ID de l'article. Eh bien, cette extension vous permet de gagner du temps pour récupérer l'ID de n'importe quelles de vos pages ou articles.
 
 == Installation ==
 Installer puis Activer.
+Puis allez dans le Back Office. Cliquez sur Articles ou Pages, et vous verrez un nouveau colonne nommé ID au niveau de votre listes d'Articles ou Pages, comme illustré leq screenshots.
 
 == Screenshots ==
-1. ID column added on posts list
+1. Ajout de la colonne ID dans la liste des Articles
+2. Ajout de la colonne ID dans la liste des Pages
