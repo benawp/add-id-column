@@ -1,7 +1,7 @@
 === Add ID Column ===
 Contributors: BenaWP
 Tags: column ID, posts ID, pages ID
-Donate link: https://www.linkedin.com/in/yvon-aulien-benahita-733350164/
+Donate link: https://www.buymeacoffee.com/bena.wp
 Requires at least: 1.0
 Tested up to: 6.0.1
 Requires PHP: 5.6
