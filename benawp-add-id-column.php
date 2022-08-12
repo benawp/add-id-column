@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name:       Ajouter une colonne d'ID
- * Plugin URI:        https://github.com/BenaWP/Add-ID-Column.git
- * Description:       Gagner du temps ! Installer puis Activer cet plugin et vous récupérerez facilement l'ID d'un Article ou d'une page que vous voulez !
+ * Plugin URI:        https://wordpress.org/plugins/add-id-column/
+ * Description:       Gagner du temps ! Installer puis Activer cette extension et vous récupérerez facilement l'ID d'un article ou d'une page que vous voulez !
  * Version:           1.0.0
- * Requires at least: 1.0
+ * Requires at least: 3.0
  * Requires PHP:      5.6
  * Author:            BenaWP
  * Author URI:        https://www.linkedin.com/in/yvon-aulien-benahita-733350164/

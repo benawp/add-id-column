@@ -1,6 +1,6 @@
 # Add-ID-Column
 
-Gagner du temps ! Installer puis Activer cet plugin et vous récupérerez facilement l'ID d'un article ou d'une page que vous voulez !
+Gagner du temps ! Installer puis Activer cette extension et vous récupérerez facilement l'ID d'un article ou d'une page que vous voulez !
 
 Vous pouvez avoir besoin de l'ID d'un article ou d'une page dans plusieurs cas, par exemple pour créer un shortcode personnalisé qui nécessite un ID comme paramètre. Ou lorsque vous ajoutez des widgets à un thème WordPress, vous pouvez également avoir besoin d'identifier l'ID de l'article. Eh bien, cette extension vous permet de gagner du temps pour récupérer très facilement l'ID de n'importe quels articles ou pages.
 

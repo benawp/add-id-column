@@ -9,7 +9,7 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Gagner du temps ! Installer puis Activer cet plugin et vous récupérerez facilement l'ID d'un article ou d'une page que vous voulez !
+Gagner du temps ! Installer puis Activer cette extension et vous récupérerez facilement l'ID d'un article ou d'une page que vous voulez !
 
 == Description ==
 Vous pouvez avoir besoin de l'ID d'un article ou d'une page dans plusieurs cas, par exemple pour créer un shortcode personnalisé qui nécessite un ID comme paramètre. Ou lorsque vous ajoutez des widgets à un thème WordPress, vous pouvez également avoir besoin d'identifier l'ID de l'article. Eh bien, cette extension vous permet de gagner du temps pour récupérer très facilement l'ID de n'importe quels articles ou pages.

@@ -24,7 +24,7 @@ msgid "Ajouter une colonne d'ID"
 msgstr ""
 
 #: benawp-add-id-column.php:5
-msgid "Gagner du temps ! Installer puis Activer cet plugin et vous récupérerez facilement l'ID d'un Article ou d'une page que vous voulez !"
+msgid "Gagner du temps ! Installer puis Activer cet plugin et vous récupérerez facilement l'ID d'un article ou d'une page que vous voulez !"
 msgstr ""
 
 #: benawp-add-id-column.php:25
