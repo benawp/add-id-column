@@ -3,7 +3,7 @@ Contributors: BenaWP
 Tags: column ID, posts ID, pages ID
 Donate link: https://www.buymeacoffee.com/bena.wp
 Requires at least: 1.0
-Tested up to: 6.0.1
+Tested up to: 6.2.2
 Requires PHP: 5.6
 Stable tag: 1.0.0
 License: GPLv2 or later
@@ -12,7 +12,13 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Gagner du temps ! Installer puis Activer cette extension et vous récupérerez facilement l'ID d'un article ou d'une page que vous voulez !
 
 == Description ==
-Vous pouvez avoir besoin de l'ID d'un article ou d'une page dans plusieurs cas, par exemple pour créer un shortcode personnalisé qui nécessite un ID comme paramètre. Ou lorsque vous ajoutez des widgets à un thème WordPress, vous pouvez également avoir besoin d'identifier l'ID de l'article. Eh bien, cette extension vous permet de gagner du temps pour récupérer très facilement l'ID de n'importe quels articles ou pages.
+Ajoutez une colonne d'ID facilement identifiable à vos pages et articles avec notre plugin. 
+
+L'ID d'un article ou d'une page est souvent utilisé dans les shortcodes et autres fonctionnalités de WordPress. 
+
+Grâce à notre plugin, vous pouvez désormais voir rapidement et facilement l'ID de chaque page et article de votre site. 
+
+Cette colonne vous sera utile pour personnaliser votre site et ajouter des fonctionnalités supplémentaires grâce aux shortcodes et aux autres outils de WordPress.
 
 == Installation ==
 À PARTIR DE WORDPRESS
